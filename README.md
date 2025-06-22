@@ -17,9 +17,9 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 :--:|:--:
 ![Ana Sayfa](assets/screenshots/main_screen.jpeg) | ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg) | ![Search Sayfası](assets/screenshots/search_screen.jpeg) | ![Search Sayfası](assets/screenshots/favorites.jpeg) 
 
-Giriş Ekranı | Favoriler
+Profile Ekranı | Giriş Ekranı | Favoriler
 :--:|:--:
-![Login](assets/screenshots/login_screen.jpeg) | ![Kaydedilenler](assets/screenshots/saved_movies.png)
+![Profile Ekranı](assets/screenshots/login_screen.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) | ![Kaydedilenler](assets/screenshots/saved_movies.png)
 
 ## 📱 Teknolojiler
 
