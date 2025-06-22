@@ -14,12 +14,10 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 
 | Ana Sayfa | Film Detayı | Search Sayfası | favoriler Sayfası |
 |-----------|-------------|----------------|-------------|
-:--:|:--:
 ![Ana Sayfa](assets/screenshots/main_screen.jpeg) | ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg) | ![Search Sayfası](assets/screenshots/search_screen.jpeg) | ![Search Sayfası](assets/screenshots/favorites.jpeg) 
 
 Profile Ekranı | Giriş Ekranı |
 |--------------|--------------|
-:--:|:--:
 ![Profile Ekranı](assets/screenshots/profile.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) 
 
 ## 📱 Teknolojiler
