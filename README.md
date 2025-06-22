@@ -14,12 +14,12 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 
 | Ana Sayfa | Film Detayı |
 |-----------|-------------|
-![WhatsApp Image 2025-06-22 at 16 19 39 (1)](https://github.com/user-attachments/assets/2b508439-4604-494f-a531-3e8a7d268b49)
+:--:|:--:
+![Ana Sayfa](assets/screenshots/home_screen.png) | ![Film Detayı](assets/screenshots/movie_detail_clean.png)
 
-
-| Giriş | Kaydedilenler |
-|--------|----------------|
-| ![Login](assets/screenshots/login_screen.png) | ![Kaydedilenler](assets/screenshots/saved_movies.png) |
+Giriş Ekranı | Favoriler
+:--:|:--:
+![Login](assets/screenshots/login_screen.png) | ![Kaydedilenler](assets/screenshots/saved_movies.png)
 
 ## 📱 Teknolojiler
 
