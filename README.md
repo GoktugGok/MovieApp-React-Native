@@ -30,7 +30,7 @@ Profile Ekranı | Giriş Ekranı | Profile Ayarlar Ekranı |
 ## 📦 Kurulum
 
 ```bash
-git clone https://github.com/kullanici-adi/movie-app.git
-cd movie-app
+git clone https://github.com/GoktugGok/MovieApp-React-Native.git
+cd .\myMovieApp\ 
 npm install
 npm start
