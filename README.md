@@ -20,7 +20,7 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 Profile Ekranı | Giriş Ekranı |
 |--------------|--------------|
 :--:|:--:
-![Profile Ekranı](assets/screenshots/login_screen.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) 
+![Profile Ekranı](assets/screenshots/profile.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) 
 
 ## 📱 Teknolojiler
 
