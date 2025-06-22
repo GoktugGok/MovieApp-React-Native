@@ -12,10 +12,10 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 
 ## 📸 Ekran Görüntüleri
 
-| Ana Sayfa | Film Detayı | Search Sayfası | Film Detayı |
+| Ana Sayfa | Film Detayı | Search Sayfası | favoriler Sayfası |
 |-----------|-------------|----------------|-------------|
 :--:|:--:
-![Ana Sayfa](assets/screenshots/main_screen.jpeg) | ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg) | ![Search Sayfası](assets/screenshots/search_screen.jpeg) 
+![Ana Sayfa](assets/screenshots/main_screen.jpeg) | ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg) | ![Search Sayfası](assets/screenshots/search_screen.jpeg) | ![Search Sayfası](assets/screenshots/favorites.jpeg) 
 
 Giriş Ekranı | Favoriler
 :--:|:--:
