@@ -19,7 +19,7 @@ Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film d
 
 Giriş Ekranı | Favoriler
 :--:|:--:
-![Login](assets/screenshots/login_screen.png) | ![Kaydedilenler](assets/screenshots/saved_movies.png)
+![Login](assets/screenshots/login_screen.jpeg) | ![Kaydedilenler](assets/screenshots/saved_movies.png)
 
 ## 📱 Teknolojiler
 
