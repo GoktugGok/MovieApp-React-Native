@@ -1,50 +1,37 @@
-# Welcome to your Expo app 👋
+# 🎬 Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film detaylarını görüntüleyebilir, favorilerine ekleyebilir ve harika bir kullanıcı deneyimi yaşayabilirsin.
 
-## Get started
+## 🚀 Özellikler
 
-1. Install dependencies
+- 🔍 Film arama
+- 🎥 Detaylı film bilgileri
+- ❤️ Favorilere ekleme / çıkarma
+- 🔐 Kullanıcı girişi ve kaydı
+- 📂 Kaydedilen filmleri görüntüleme
 
-   ```bash
-   npm install
-   ```
+## 📸 Ekran Görüntüleri
 
-2. Start the app
+| Ana Sayfa | Film Detayı |
+|-----------|-------------|
+![WhatsApp Image 2025-06-22 at 16 19 39 (1)](https://github.com/user-attachments/assets/2b508439-4604-494f-a531-3e8a7d268b49)
 
-   ```bash
-   npx expo start
-   ```
 
-In the output, you'll find options to open the app in a
+| Giriş | Kaydedilenler |
+|--------|----------------|
+| ![Login](assets/screenshots/login_screen.png) | ![Kaydedilenler](assets/screenshots/saved_movies.png) |
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📱 Teknolojiler
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- React Native  
+- Expo  
+- Appwrite  
+- TMDB API
 
-## Get a fresh project
-
-When you're ready, run:
+## 📦 Kurulum
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/kullanici-adi/movie-app.git
+cd movie-app
+npm install
+npm start
