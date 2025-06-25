@@ -25,42 +25,49 @@ Kullanıcılar popüler filmleri listeleyebilir, detaylarına göz atabilir, ara
 
 ### 🏠 Ana Sayfa
 Kullanıcıyı karşılayan ekran, en popüler filmleri gösterir.  
+
 ![Ana Sayfa](assets/screenshots/main_screen.jpeg)
 
 ---
 
 ### 📄 Film Detay Sayfası
 Seçilen filmin açıklaması, afişi, puanı ve yayın tarihi gibi bilgiler yer alır.  
+
 ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg)
 
 ---
 
 ### 🔍 Arama (Search) Sayfası
 Kullanıcı film ismine göre arama yapabilir.  
+
 ![Search Sayfası](assets/screenshots/search_screen.jpeg)
 
 ---
 
 ### ⭐ Favoriler Sayfası
 Beğenilen filmler favorilere eklenip buradan görüntülenebilir.  
+
 ![Favoriler](assets/screenshots/favorites.jpeg)
 
 ---
 
 ### 👤 Profil Ekranı
 Kullanıcının genel bilgileri ve hesap erişimi burada yer alır.  
+
 ![Profil](assets/screenshots/profile.jpeg)
 
 ---
 
 ### 🔐 Giriş Ekranı
 Kullanıcı giriş formu, e-posta ve şifre doğrulaması içerir.  
+
 ![Giriş](assets/screenshots/login_screen.jpeg)
 
 ---
 
 ### ⚙️ Profil Ayarları
 Kullanıcı bilgilerini güncelleme, çıkış yapma gibi işlemler bu ekrandan yapılabilir.  
+
 ![Ayarlar](assets/screenshots/profile-setting_screen.jpeg)
 
 
