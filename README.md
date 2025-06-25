@@ -1,36 +1,39 @@
-# 🎬 Movie App
+# 🎬 MovieApp – React Native Film Keşif Uygulaması
 
-Mobil uygulamanla sinema dünyası parmaklarının ucunda! Bu uygulamayla film detaylarını görüntüleyebilir, favorilerine ekleyebilir ve harika bir kullanıcı deneyimi yaşayabilirsin.
+MovieApp, React Native ve TypeScript kullanılarak geliştirilen, TMDB API ile çalışan modern bir film keşif uygulamasıdır.  
+Kullanıcılar popüler filmleri listeleyebilir, detaylarına göz atabilir, arama yapabilir ve favori listesi oluşturabilir.
 
-## 🚀 Özellikler
+---
 
-- 🔍 Film arama
-- 🎥 Detaylı film bilgileri
-- ❤️ Favorilere ekleme / çıkarma
-- 🔐 Kullanıcı girişi ve kaydı
-- 📂 Kaydedilen filmleri görüntüleme
+## ✨ Özellikler
 
-## 📸 Ekran Görüntüleri
+- 🔍 Popüler filmleri listeleme (TMDB API'den)
+- 📄 Film detaylarını görüntüleme (özet, afiş, puan)
+- 🔎 Film ismine göre arama
+- ⭐ Favorilere film ekleme ve çıkarma
+- 👤 Profil ekranı
+- ⚙️ Profil bilgilerini güncelleme
+- 🔐 Giriş ekranı (mock login)
+- 🎨 Modern mobil tasarım (NativeWind / Tailwind)
+- ☁️ `.env` üzerinden API key yönetimi
+- ⚙️ FlatList ile yüksek performanslı listeleme
+- 📦 Tam TypeScript desteği
 
-| Ana Sayfa | Film Detayı | Search Sayfası | favoriler Sayfası |
-|-----------|-------------|----------------|-------------|
-![Ana Sayfa](assets/screenshots/main_screen.jpeg) | ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg) | ![Search Sayfası](assets/screenshots/search_screen.jpeg) | ![Search Sayfası](assets/screenshots/favorites.jpeg) 
+---
 
-Profile Ekranı | Giriş Ekranı | Profile Ayarlar Ekranı |
-|--------------|--------------|------------------------|
-![Profile Ekranı](assets/screenshots/profile.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) | ![ Profile Ayarlar Ekrani ](assets/screenshots/profile-setting_screen.jpeg) 
-
-## 📱 Teknolojiler
-
-- React Native  
-- Expo  
-- Appwrite  
-- TMDB API
-
-## 📦 Kurulum
+## ⚙️ Kurulum
 
 ```bash
+# 1. Repoyu klonla
 git clone https://github.com/GoktugGok/MovieApp-React-Native.git
-cd .\myMovieApp\ 
+cd MovieApp-React-Native
+
+# 2. Gerekli paketleri yükle
 npm install
-npm start
+
+# 3. .env dosyası oluştur (TMDB API key gir)
+# .env dosyasına şunu yaz:
+TMDB_API_KEY=your_tmdb_api_key_here
+
+# 4. Uygulamayı başlat
+npx expo start
