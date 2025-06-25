@@ -20,6 +20,9 @@ Profile Ekranı | Giriş Ekranı | Profile Ayarlar Ekranı |
 |--------------|--------------|------------------------|
 ![Profile Ekranı](assets/screenshots/profile.jpeg) | ![Giriş Ekranı](assets/screenshots/login_screen.jpeg) | ![ Profile Ayarlar Ekrani ](assets/screenshots/profile-setting_screen.jpeg) 
 
+| Film Detayı |
+ ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg)
+
 ## 📱 Teknolojiler
 
 - React Native  
