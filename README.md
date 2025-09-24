@@ -1,89 +1,89 @@
-# 🎬 MovieApp – React Native Film Keşif Uygulaması
+# 🎬 MovieApp – React Native Movie Discovery App
 
-MovieApp, React Native ve TypeScript kullanılarak geliştirilen, TMDB API ile çalışan modern bir film keşif uygulamasıdır.  
-Kullanıcılar popüler filmleri listeleyebilir, detaylarına göz atabilir, arama yapabilir ve favori listesi oluşturabilir.
+MovieApp is a modern movie discovery application developed using React Native and TypeScript, powered by the TMDB API.
+Users can browse popular movies, view details, search for films, and create favorite lists.
 
 ---
 
 ## ✨ Özellikler
 
-- 🔍 Popüler filmleri listeleme (TMDB API'den)
-- 📄 Film detaylarını görüntüleme (özet, afiş, puan)
-- 🔎 Film ismine göre arama
-- ⭐ Favorilere film ekleme ve çıkarma
-- 👤 Profil ekranı
-- ⚙️ Profil bilgilerini güncelleme
-- 🔐 Giriş ekranı (mock login)
-- 🎨 Modern mobil tasarım (NativeWind / Tailwind)
-- ☁️ `.env` üzerinden API key yönetimi
-- ⚙️ FlatList ile yüksek performanslı listeleme
-- 📦 Tam TypeScript desteği
+- 🔍 Browse popular movies (from TMDB API)
+- 📄 View movie details (summary, poster, rating)
+- 🔎 Search movies by title
+- ⭐ Add/remove movies from favorites
+- 👤 Profile screen
+- ⚙️ Update profile information
+- 🔐 Login screen (mock login)
+- 🎨 Modern mobile design (NativeWind / Tailwind)
+- ☁️ API key management via .env
+- ⚙️ High-performance listing with FlatList
+- 📦 Full TypeScript support
 
 ---
 
-## 🖼️ Ekran Görüntüleri
+## 🖼️ Screenshots
 
-### 🏠 Ana Sayfa
-Kullanıcıyı karşılayan ekran, en popüler filmleri gösterir.  
+### 🏠 Home Screen
+Welcomes the user and displays the most popular movies.
 
 ![Ana Sayfa](assets/screenshots/main_screen.jpeg)
 
 ---
 
-### 📄 Film Detay Sayfası
-Seçilen filmin açıklaması, afişi, puanı ve yayın tarihi gibi bilgiler yer alır.  
+### 📄 Movie Detail Screen
+Shows selected movie's description, poster, rating, release date, and other information.
 
 ![Film Detayı](assets/screenshots/movie-detail_screen.jpeg)
 
 ---
 
-### 🔍 Arama (Search) Sayfası
-Kullanıcı film ismine göre arama yapabilir.  
+### 🔍 Search Screen
+Users can search for movies by title.
 
 ![Search Sayfası](assets/screenshots/search_screen.jpeg)
 
 ---
 
-### ⭐ Favoriler Sayfası
-Beğenilen filmler favorilere eklenip buradan görüntülenebilir.  
+### ⭐ Favorites Screen
+Liked movies are added to favorites and can be viewed here.
 
 ![Favoriler](assets/screenshots/favorites.jpeg)
 
 ---
 
-### 👤 Profil Ekranı
-Kullanıcının genel bilgileri ve hesap erişimi burada yer alır.  
+### 👤 Profile Screen
+Displays user's general information and account access. 
 
 ![Profil](assets/screenshots/profile.jpeg)
 
 ---
 
-### 🔐 Giriş Ekranı
-Kullanıcı giriş formu, e-posta ve şifre doğrulaması içerir.  
+### 🔐 Login Screen
+User login form with email and password validation.
 
 ![Giriş](assets/screenshots/login_screen.jpeg)
 
 ---
 
-### ⚙️ Profil Ayarları
-Kullanıcı bilgilerini güncelleme, çıkış yapma gibi işlemler bu ekrandan yapılabilir.  
+### ⚙️ Profile Settings Screen
+Users can update their information and log out from this screen. 
 
 ![Ayarlar](assets/screenshots/profile-setting_screen.jpeg)
 
 
-## ⚙️ Kurulum
+## ⚙️ Installation
 
 ```bash
-# 1. Repoyu klonla
+# 1. Clone the repository
 git clone https://github.com/GoktugGok/MovieApp-React-Native.git
 cd MovieApp-React-Native
 
-# 2. Gerekli paketleri yükle
+# 2. Install required packages
 npm install
 
-# 3. .env dosyası oluştur (TMDB API key gir)
+# 3. Create .env file (enter your TMDB API key)
 # .env dosyasına şunu yaz:
 TMDB_API_KEY=your_tmdb_api_key_here
 
-# 4. Uygulamayı başlat
+# 4. Start the application
 npx expo start
